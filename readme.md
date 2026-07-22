@@ -2,7 +2,7 @@
 
 This is a simple web app meant to run locally.
 Provide it a link to a youtube video to convert to an mp3.
-Build and run instructions will come soon.
+Eventually I will get around to fixing the bugs and hashing out installation instructions, as well as providing standalone binaries. 
 
 ## Installation
 
